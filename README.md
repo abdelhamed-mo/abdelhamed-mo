@@ -107,5 +107,4 @@ A passionate Full Stack .NET Developer with a strong focus on building scalable,
 <br clear="both"/>
 </div>
 
-![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
 
